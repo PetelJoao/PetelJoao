@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI i'm a backend Dev and at the moment i'm working with Django 
+HI i'm a FullStack Dev and at the moment i'm working with Django 
 
 
 ## 🌐 Socials:
