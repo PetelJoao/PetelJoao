@@ -1,3 +1,8 @@
+
+
+![Hello GIF](https://giphy.com/gifs/xXtJNOAECUdApFzQVu)
+
+
 # 💫 About Me:
 HI i'm a FullStack Dev and at the moment i'm working with Django 
 
