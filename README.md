@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/xXtJNOAECUdApFzQVu" width="480" height="89" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xXtJNOAECUdApFzQVu">via GIPHY</a></p>
+
 # 💫 About Me:
 HI i'm a FullStack Dev and at the moment i'm working with Django 
 
